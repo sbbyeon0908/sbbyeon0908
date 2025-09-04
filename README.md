@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-##내 소개
 --
 **sbbyeon0908/sbbyeon0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
