@@ -9,7 +9,7 @@
 - **학교:** 한신대학교
 - **학과:** AISW
 
-- **insta:** u1qkoas_9o  https://www.instagram.com/u1qkoas_9o/
+- **insta:** u1qkoas_9o  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
